@@ -1,0 +1,23 @@
+Tensão de Ripple - Trata-se da tensão variante, gerada pós retificação, geralmente é considerado como ruído sendo não desejável no circuito. 
+
+MOSFET - Transistor de efeito de campo metal - óxido – Semicondutor (Metal Oxide Semiconductor Field Effect Transistor). 
+
+Transistores BJT - transístor de junção bipolar. 
+
+NFC TAG - Uma etiqueta ou cartão capaz de guardar um código NFC (Near Field Comunication). 
+
+Bridgeless – Sem ponte retificadora.  
+
+Touch Screen – Tela de toque.  
+
+Domótico – Sinônimo de automação residencial.  
+
+Conversor DC/DC Boost – Conversor tensão que utiliza técnicas de chaveamento para carga e descarga de um elemento indutivo, provendo de uma maior tensão que a original.  
+
+Circuito Chopper - Trata-se de um circuito que faz o corte/interrupção devido a isto possui o nome de chopper(cortar). 
+
+Perda joule - Perda em calor, proveniente da corrente elétrica em uma impedância. É dada pela formula P=U²/R. 
+
+BlueTooth – Protocolo de comunicação sem fio de curto alcance entre aparelhos. 
+
+Wi-Fi – Tecnologia de rede sem fio que permite a conexão com a internet. 
